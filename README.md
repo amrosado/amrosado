@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amrosado
-- 👀 I’m interested in artificial intelligence in healthcare
+- 👋 Hi, I’m @amrosado (Aaron Rosado, PhD) a software engineer, biomedical engineer, and medical student at Emory University
+- 👀 I’m interested in cybersecurity, computer vision, and artificial intelligence in healthcare
 - 🌱 I’m currently learning to apply transformers in image enhancement
-- 💞️ I’m looking to collaborate on healthcare artificial intelligence
+- 💞️ I’m looking to collaborate on healthcare cybersecurity, artificial intelligence, and computer vision
 - 📫 How to reach me arosad2@protonmail.ch
 
 <!---
