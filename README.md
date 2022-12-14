@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amrosado (Aaron Rosado, PhD) a software engineer, biomedical engineer, and medical student at Emory University
+- 👋 Hi, I’m @amrosado (Aaron Rosado, PhD) a biomedical engineer, chemical engineer, software engineer, and medical student at Emory University.
 - 👀 I’m interested in cybersecurity, computer vision, and artificial intelligence in healthcare
 - 🌱 I’m currently learning to apply transformers in image enhancement
 - 💞️ I’m looking to collaborate on healthcare cybersecurity, artificial intelligence, and computer vision
